@@ -1,0 +1,1 @@
+# terraform-aws-lambda-edge-basic-auth
